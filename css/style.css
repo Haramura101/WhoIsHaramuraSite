@@ -10,15 +10,18 @@ html {
 
 header {
     color: #ffff;
-    font-size: 400%;
+    font-size: 225%;
     text-align: center;
 }
 .biotext {
     color: #ffff;
-    font-size: 24px;
+    font-size: 20px;
+    text-align: left;
 }
 .profilephoto {
     float: right;
+    width:20%;
+    height:30%;
 }
 .footertext {
     color: #ffff ;
